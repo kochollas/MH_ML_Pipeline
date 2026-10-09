@@ -1,0 +1,11 @@
+Data/*.csv
+
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model and output artifacts
+*.joblib
+*.pkl
