@@ -18,3 +18,6 @@ pip install numpy pandas scipy scikit-learn matplotlib seaborn joblib shap jupyt
 
 ## Data
 Data can be accessed as described on info
+
+## Collaborative updates by mamuroromoobutomete
+I have been invited by Michael Ochola and so this is a collaborative project. It is intended to be a benchmark code for prediction of depression using ML.
