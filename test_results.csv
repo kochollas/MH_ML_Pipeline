@@ -1,0 +1,6 @@
+Model,ROC AUC,PR AUC,Accuracy,Sensitivity,Specificity,Precision,F1
+Gradient Boosting,0.95,0.877,0.881,0.904,0.873,0.701,0.79
+Logistic Regression,0.946,0.862,0.883,0.899,0.878,0.708,0.792
+SVM (RBF),0.945,0.865,0.899,0.832,0.921,0.776,0.803
+Random Forest,0.943,0.863,0.876,0.909,0.865,0.69,0.784
+KNN,0.901,0.753,0.885,0.769,0.924,0.769,0.769
